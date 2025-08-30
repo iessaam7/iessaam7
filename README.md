@@ -26,11 +26,11 @@ Let’s connect and build something awesome! 🚗💻✨
 ![](https://nirzak-streak-stats.vercel.app/?user=iessaam7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iessaam7&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Snake Game Repo View -->
+<!-- Snake Game Repo View 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iessaam7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
